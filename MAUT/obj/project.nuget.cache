@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "GcV/PNl2yj6pvlXM9+c9iMSBV2xoRB6bGUbw/hNrb6lF4+Jvgek7HItjBGYyuPiYSU97ICjJlAYBLNFZ7BSnxA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\prose\\OneDrive\\Namizje\\feri\\Sistemi odločanja\\MAUT\\MAUT\\MAUT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\prose\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.4\\microsoft.netcore.platforms.3.1.4.nupkg.sha512",
+    "C:\\Users\\prose\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\prose\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\prose\\.nuget\\packages\\scottplot\\4.1.64\\scottplot.4.1.64.nupkg.sha512",
+    "C:\\Users\\prose\\.nuget\\packages\\scottplot.winforms\\4.1.64\\scottplot.winforms.4.1.64.nupkg.sha512",
+    "C:\\Users\\prose\\.nuget\\packages\\system.drawing.common\\4.7.2\\system.drawing.common.4.7.2.nupkg.sha512",
+    "C:\\Users\\prose\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
